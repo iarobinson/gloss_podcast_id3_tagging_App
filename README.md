@@ -1,4 +1,4 @@
-# The Best Podcast ID3 Tagging Tool in the World
+# The Best ID3 Tagging Tool for Podcasters
 
 Problem = 
 
