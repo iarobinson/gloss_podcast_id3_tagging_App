@@ -1,6 +1,6 @@
 # The Best ID3 Tagging Tool for Podcasters
 
-Problem = 
+Problem =
 
 ID3 tagging podcasts is tedious. Also, consistency looks pro, but it requries focus which could be automated and done better with a program.
 
@@ -17,9 +17,9 @@ User will be prompted to enter their show's information. Questions to include:
 - URL
 - Show Art ***
 
-* - Suggest user leaves year blank to set tagging info to write current 
+* - Suggest user leaves year blank to set tagging info to write current
   year.
-** - Suggest they include the URL of their website int the comment to 
+** - Suggest they include the URL of their website int the comment to
   make the content evergreen across shows
 *** - Show art is a square .jpg or .png file between 500 and 3000 pixles in height/width.
 
@@ -44,13 +44,12 @@ podcast exceeds the first line of the window.
 
 -- Step 4 - Thank You. Your Podcast has Been Tagged in Excellence.
 
-This screen reads once the .mp3 is tagged (this should be instantaneous after the 
+This screen reads once the .mp3 is tagged (this should be instantaneous after the
 user clicks enter)
 
 
 = Establishing v0.1
 
-This initial tool works best for podcasters who produce multiple episodes of a single show. 
+This initial tool works best for podcasters who produce multiple episodes of a single show.
 
 The hardest problems are in executing the important parts (id3 tagging info, image storing)
-
