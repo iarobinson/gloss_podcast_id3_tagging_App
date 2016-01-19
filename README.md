@@ -8,13 +8,12 @@ I've included this 4 step series. Initial users will go through steps 1-4. After
 
 
 -- Step 1 - Establishing show information (this happens initial use only, then info is stored)
-
+![ScreenShot](/iarobinson/id3_tagging_app_gloss/blob/master/screenshots/1.1%20Step_ID3Gloss.jpg)
 User will be prompted to enter their show's information. Questions to include:
 - Artist
 - Album
 - Year *
 - Comment  **
-- URL
 - Show Art ***
 
 * - Suggest user leaves year blank to set tagging info to write current
