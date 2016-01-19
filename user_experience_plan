@@ -1,0 +1,46 @@
+
+
+-- Step 1 - Establishing show information (this happens initial use only, then info is stored)
+
+User will be prompted to enter their show's information. Questions to include:
+- Artist
+- Album
+- Year 
+- Comment 
+- URL
+
+* - Suggest user leaves year blank to set tagging info to write current 
+  year.
+** - Suggest they include the URL of their website int the comment to 
+  make the content evergreen across shows
+
+Action - Upon completion, the computer will print "Thank you, You can now start tagging."
+
+
+-- Step 2 - Drag and Drop your .mp3 into this Window Screen
+
+User is prompted to drag and drop their .mp3 into the window. Computer remembers
+path and moves onto next screen upon verification that file is .mp3
+  NOTE: If not an .mp3, just have the text wiggle a bit and do nothing
+
+(Screenshots included)
+
+-- Step 3 - Thank You. Episode Title?
+
+The episode title is the only dynamic piece of information required from the user
+requiring input (.mp3 aside).
+
+I've added two screenshots here to explain the user experience as the title of the
+podcast exceeds the first line of the window.
+
+-- Step 4 - Thank You. Your Podcast has Been Tagged in Excellence.
+
+This screen reads once the .mp3 is tagged (this should be instantaneous after the 
+user clicks enter)
+
+
+Establishing First Version:
+
+Of course, this is an initial tool which only provides for a single show. There
+is lots of room to improve, but the hardest problems are in executing this tool.
+Once we get this, it'll be much easier going forward.
